@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451091128873",
+    "firebase_url": "https://mr-techie-cfebc.firebaseio.com",
+    "project_id": "mr-techie-cfebc",
+    "storage_bucket": "mr-techie-cfebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451091128873:android:a5f4ff30cad86e8bd27238",
+        "android_client_info": {
+          "package_name": "com.example.mr_techie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451091128873-8dgpj7oplltmdous8uh0e2bif532sta5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mr_techie",
+            "certificate_hash": "e52e0bb640e2759f602699de8e58d8d0b94d1b81"
+          }
+        },
+        {
+          "client_id": "451091128873-e41o7uifkgu3pkeiq3gh6ml16l0pvmgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnm6JOtYc6KK5Wf_n8S1kmg0RPPvl5RwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451091128873-e41o7uifkgu3pkeiq3gh6ml16l0pvmgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
